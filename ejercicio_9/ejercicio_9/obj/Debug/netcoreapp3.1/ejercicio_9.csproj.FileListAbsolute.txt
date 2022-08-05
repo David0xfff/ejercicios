@@ -1,0 +1,14 @@
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.exe
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.deps.json
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.runtimeconfig.json
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.runtimeconfig.dev.json
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.dll
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\bin\Debug\netcoreapp3.1\ejercicio_9.pdb
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.csproj.AssemblyReference.cache
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.AssemblyInfo.cs
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.dll
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.pdb
+C:\Users\Desarrollo_Optecom\source\repos\ejercicio_9\ejercicio_9\obj\Debug\netcoreapp3.1\ejercicio_9.genruntimeconfig.cache
